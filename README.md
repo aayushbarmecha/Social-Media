@@ -1,1 +1,1 @@
-This project was made as an assignment work for some company. It consists of the frontend part of the website using ReactJs and CSS. Also Retrieving the data using MongoDB is yet to be implemented and instead worked using the statistic data provided from the company from their end.
+This project was made as an assignment work for some company. It consists of the frontend part of the website using ReactJs and CSS. Also retrieving the data using MongoDB is yet to be implemented and instead worked using the statistics/data provided by the company from their end.
